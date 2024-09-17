@@ -4,17 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dc5dfbac-5b93-4f1a-907d-61fca5173e60" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/pythonLab3.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch3exercises.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab003.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab_chat.py" afterDir="false" />
+    <list default="true" id="dc5dfbac-5b93-4f1a-907d-61fca5173e60" name="Changes" comment="lab3 etc">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch3exercises.py" beforeDir="false" afterPath="$PROJECT_DIR$/ch3exercises.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_chat.py" beforeDir="false" afterPath="$PROJECT_DIR$/lab_chat.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,6 +24,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "GoggledAvenger"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/GoggledAvenger/python_lab3.git",
+    "accountId": "b2147301-4151-4c18-be72-e5f7a106c751"
+  }
+}]]></component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 3
 }]]></component>
@@ -42,7 +47,10 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.ch3exercises.executor": "Run",
+    "Python.instructorexamples.executor": "Run",
     "Python.lab003.executor": "Run",
+    "Python.lab_chat.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "last_opened_file_path": "C:/Users/is-student/Downloads/lab_chat.py",
@@ -70,6 +78,15 @@
       <option name="presentableId" value="Default" />
       <updated>1726161154298</updated>
     </task>
+    <task id="LOCAL-00001" summary="lab3 etc">
+      <option name="closed" value="true" />
+      <created>1726171062412</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1726171062412</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -82,5 +99,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="lab3 etc" />
+    <option name="LAST_COMMIT_MESSAGE" value="lab3 etc" />
   </component>
 </project>

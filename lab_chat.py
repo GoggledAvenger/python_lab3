@@ -58,5 +58,6 @@ def chat_task(ctx, pipe, n, group):
     n.stop()
 
 def get_channel(node, group):
+    join_group(node, group)
     ctx = zmq.Context()
     return zhelper.zthread_fork(ctx, chat_task, n=node, group=group)
